@@ -10,7 +10,7 @@ import _00_Click_Chat.networking.Server;
 /*
  * Using the Click_Chat example, write an application that allows a server computer to chat with a client computer.
  */
-
+//ip is 192.168.1.75
 public class ChatApp extends JFrame{
 static JTextField text=new JTextField();
 static String message="";
