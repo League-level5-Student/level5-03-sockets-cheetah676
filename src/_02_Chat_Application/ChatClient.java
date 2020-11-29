@@ -6,7 +6,7 @@ import java.io.ObjectOutputStream;
 import java.net.Socket;
 
 import javax.swing.JOptionPane;
-
+//ip is 192.168.1.75
 public class ChatClient {
 	private String ip;
 	private int port;
